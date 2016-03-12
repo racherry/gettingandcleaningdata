@@ -1,4 +1,6 @@
-Codebook for Getting and Cleaning Data Assignment
+# Codebook for Getting and Cleaning Data Assignment
+
+Variable Descriptors
 
 subject
   1..30
